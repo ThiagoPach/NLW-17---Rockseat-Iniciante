@@ -25,7 +25,7 @@ const start = async () => {
 
         switch(opcao) {
             case "cadastrar":
-                console.log("Vamos cadastrar")
+                cadastrarMeta()
                 break
             case "listar":
                 console.log("Vamos listar")
