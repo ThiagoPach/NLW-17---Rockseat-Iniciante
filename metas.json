@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "value": "Andar todos os dias",
+    "checked": true
+  },
+  {
+    "value": "Tentar pedalar todos os dias",
+    "checked": true
+  },
+  {
+    "value": "Beber 3L de água",
+    "checked": false
+  },
+  {
+    "value": "Correr",
+    "checked": false
+  }
+]
